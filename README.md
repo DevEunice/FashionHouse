@@ -1,5 +1,5 @@
 
-<div align="center"><h2>QKART FRONTEND</h2></div>
+<div align="center"><h2>FRONTEND</h2></div>
 <br>
 <div align="center"><img src="https://user-images.githubusercontent.com/109352268/219581303-41426827-4130-48a1-92f2-fcbf561cefae.gif" width="100%"></div>
 <br>
@@ -7,11 +7,7 @@
 
 
 <div align="center">
-  <h2><a  href="https://qkart-richhapal.netlify.app/">Live Preview 👉</a></h2>
-  <hr>
-  <P>USERNAME:--testuser</P>
-  <P>PASSWORD:--123456</P>
-  <hr>
+  <h2><a  href="https://trendcove.netlify.app/">Live Preview 👉</a></h2>
  </div>
 
 
@@ -38,22 +34,6 @@
 <li>Used Local Storage To Save User Name and User Tokens</li>
 </ol>
 </div>
-
-<hr>
-
-<h2>1.Home Page</h2>
-<img src="https://user-images.githubusercontent.com/109352268/219589097-cbe4fce5-f2fd-41f1-9616-68b8595cbb5c.png"  />
-
-<h2>2.Login Page</h2>
-<img src="https://user-images.githubusercontent.com/109352268/219589302-3ea239e6-a601-4a6c-ae68-ac1523636442.png"  />
-
-<h2>3.Registration Page</h2>
-<img src="https://user-images.githubusercontent.com/109352268/219589432-c9c5b0e6-050f-4386-b294-32e472d90739.png"  />
-
-<h2>3.Cart Checkout Page</h2>
-<img src="https://user-images.githubusercontent.com/109352268/219589545-2cd5a420-030f-48f9-bd36-d6458b7d457e.png"  />
-
-<hr>
 
 
 
